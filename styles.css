@@ -1,0 +1,23 @@
+p {
+  font-family:Verdana;
+  font-size:12pt;
+  color:#4F4F4F;
+  font-weight:normal;
+  font-style:normal;
+  font-variant:normal;
+  margin:0px;
+  padding:0px;
+}
+a {
+  color:#165e96;
+  text-decoration:underline;
+}
+a:visited {
+  text-decoration:underline;
+}
+a:hover {
+  text-decoration:underline;
+}
+a img {
+  border:#000000 0px none;
+}
